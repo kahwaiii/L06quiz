@@ -97,7 +97,7 @@ const MyApp = () => {
                 <Button title="Submit Answer" onPress={checkAnswers}/>
                 <Text></Text>
                 <Text></Text>
-                <Text></Text>
+
 
             </View>
         </ScrollView>
