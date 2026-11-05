@@ -70,7 +70,7 @@ const MyApp = () => {
                     <Image source={{
                             uri: 'https://greatnewplaces.com/wp-content/uploads/2025/06/GNP-Headline-Beuteajunction8.jpg'
                         }}
-                        style={{width: 400, height: 400}}
+                        style={{width: 400, height: 300}}
                     />
                 </TouchableOpacity>
                 <Text></Text>
@@ -89,7 +89,7 @@ const MyApp = () => {
                     <Image source={{
                         uri: 'https://tse3.mm.bing.net/th/id/OIP.keHfunAYwHxiyIz8Hw4e6QHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3'
                     }}
-                           style={{width: 400, height: 400}}/>
+                           style={{width: 400, height: 300}}/>
                 </TouchableOpacity>
                 <Text></Text>
 
