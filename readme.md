@@ -27,10 +27,9 @@ The app updates the selected answers whenever users choose a different option.
 The ScrollView component allows users to scroll through all three questions and images.
 
 # ScreenShots of App
-Screenshot_1793851310.png
-Screenshots: <br>
-Screenshot_1793851315.png
+![Screenshot_1793851310.png](ss/Screenshot_1793851310.png)
+
+![Screenshot_1793851315.png](ss/Screenshot_1793851315.png)
 
 # Demo Video
-
 Demo Video Link: <br>
